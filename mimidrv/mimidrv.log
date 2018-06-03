@@ -1,0 +1,61 @@
+﻿Build started 2016/4/27 22:31:06.
+     1>Project "E:\fileTran\mymimikatz\mymimikatz\mimikatz\mimidrv\mimidrv.vcxproj" on node 3 (rebuild target(s)).
+     1>PrepareForNMakeBuild:
+         Creating directory "x64\".
+       CoreClean:
+         _clean_.cmd x64 E:\fileTran\mymimikatz\mymimikatz\mimikatz\x64\
+         找不到 E:\fileTran\mymimikatz\mymimikatz\mimikatz\x64\*.sys
+         系统找不到指定的文件。
+       PrepareForBuild:
+         Creating directory "obj\x64\Release\".
+       Rebuild:
+         _rebuild_.cmd x64 E:\fileTran\mymimikatz\mymimikatz\mimikatz\x64\
+         找不到 E:\fileTran\mymimikatz\mymimikatz\mimikatz\x64\*.sys
+         系统找不到指定的文件。
+         找不到 E:\fileTran\mymimikatz\mymimikatz\mimikatz\mimidrv\buildfre_wnet_amd64.log
+         BUILD: Compile and Link for AMD64
+         
+         BUILD: Loading d:\winddk\7600.16385.1\build.dat...
+         
+         BUILD: Computing Include file dependencies:
+         
+         BUILD: Start time: Wed Apr 27 22:31:07 2016
+         BUILD: null byte at offset 0x00000003
+         
+         BUILD: 972 null bytes in file
+         
+         BUILD: Examining e:\filetran\mymimikatz\mymimikatz\mimikatz\mimidrv directory for files to compile.
+         
+             e:\filetran\mymimikatz\mymimikatz\mimikatz\mimidrv 
+         
+         BUILD: Saving d:\winddk\7600.16385.1\build.dat...
+         
+         BUILD: Compiling and Linking e:\filetran\mymimikatz\mymimikatz\mimikatz\mimidrv directory
+         
+         _NT_TARGET_VERSION SET TO WS03
+         Compiling resources - mimidrv.rc
+         Compiling - mimidrv.c
+         Compiling - kkll_m_process.c
+         Compiling - kkll_m_modules.c
+         Compiling - kkll_m_memory.c
+         Compiling - kkll_m_ssdt.c
+         Compiling - kkll_m_notify.c
+         Compiling - kkll_m_filters.c
+         Linking Executable - objfre_wnet_amd64\amd64\zzwmimidrv.sys
+         BUILD: Finish time: Wed Apr 27 22:31:15 2016
+         BUILD: Done
+         
+         
+         
+             10 files compiled - 454 LPS
+         
+             1 executable built
+         
+         E:\fileTran\mymimikatz\mymimikatz\mimikatz\mimidrv\\objfre_wnet_amd64\amd64\zzwMimidrv.sys
+         已复制         1 个文件。
+         系统找不到指定的文件。
+     1>Done Building Project "E:\fileTran\mymimikatz\mymimikatz\mimikatz\mimidrv\mimidrv.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:08.44
